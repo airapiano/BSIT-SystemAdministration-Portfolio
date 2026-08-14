@@ -1,2 +1,2 @@
 # BSIT-SystemAdministration-Portfolio
-Weekly laboratory activities, documentation, and portfolio projects for ITEP 414 – System Administration and Maintenance.
+A collection of weekly laboratory activities, documentation, and projects completed in ITEP 414 – System Administration and Maintenance.
